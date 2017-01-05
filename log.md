@@ -8,3 +8,14 @@
 
 **Link(s) to work**
 1. [electron-quick-start](https://github.com/electron/electron-quick-start)
+
+
+### Day 2: January 4, Wednesday
+
+**Today's Progress**: Did some refactoring on tic-tac-toe and added unit tests using Tape. Also got around to committing to git.
+
+**Thoughts** I'm leaning toward switching to [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) to play with React.
+
+**Link(s) to work**
+1. [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
+1. [Git repository](https://github.com/silentmatt/tic-tac-toe)
